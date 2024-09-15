@@ -1,7 +1,5 @@
 # Bhoomi - AI-Powered Agricultural Solution
 
-**Due to Github issues, we have uploaded our project in Google drive -** https://drive.google.com/file/d/1PhwVZFgBeMo1qae4hoMYh75kHYIa4O86/view?usp=sharing
-
 **Bhoomi** is an innovative agricultural platform that provides farmers with a one-stop solution for their farming needs. It integrates cutting-edge AI, drone technology, and super-resolution models to deliver precision agriculture, optimize resources, and improve crop yields.
 
 ## Key Features
